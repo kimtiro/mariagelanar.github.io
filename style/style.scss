@@ -1,0 +1,28 @@
+@import "./variables";
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&family=Montserrat:wght@200;700;800&display=swap');
+
+
+.navbar {
+    background-color: $fourth-color !important;
+    font-family: $font-merriweather;
+}
+
+main {
+    .banner {
+        
+    }
+}
+
+// for big screen 
+@media (min-width: $sm) {
+    main {
+    
+    }
+}
+
+// for small screen 
+@media (max-width: $sm) {
+    
+}
+
